@@ -1,0 +1,36 @@
+#about__container{
+    width: 100%;
+    max-width: 900px;
+    margin: 50px auto;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.233);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+#about__container__header {
+    border-radius: 10px 10px 0 0;
+    padding: 10px;
+    text-align: center;
+    background-color: #bdbec035;
+    margin: 0;
+    font-size: 40px;
+    font-size: 300;
+    line-height: 0;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
+
+  .about__content{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 15px;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: black;
+    text-align: justify;
+  text-justify: inter-word;
+  
+  }
